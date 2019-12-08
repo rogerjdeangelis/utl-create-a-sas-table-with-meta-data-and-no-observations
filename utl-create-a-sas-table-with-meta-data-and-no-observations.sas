@@ -11,7 +11,11 @@ Deleted Observations  1
                                                                                                                          
  #    Variable    Type    Len                                                                                            
                                                                                                                          
- 1    EMPTY       Num       8    * has meta data;                                                                        
+ 1    EMPTY       Num       8    * has meta data;   
+ 
+github                                                                                             
+https://tinyurl.com/sgxw74v                                                                        
+https://github.com/rogerjdeangelis/utl-create-a-sas-table-with-meta-data-and-no-observations       
                                                                                                                          
 see github                                                                                                               
 https://tinyurl.com/ummb63o                                                                                              
